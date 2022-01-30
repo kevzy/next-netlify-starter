@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Im Sorry " />
+<h3> Lentine </h3>
         <p className="description">
           Im sorry for making you cry💔</p>
        
